@@ -2,16 +2,16 @@
 
 # Uso e instalação
 ```
-https://github.com/losmust/filter
+pip install corolama
 ```
-pip install colorama
 ```
+git clone https://github.com/losmust/filter.git
 ```
 ```
 cd filter
 ```
 ```
-unzip  filter.zip
+unzip filter.zip
 ```
 ```
 python filter.py
