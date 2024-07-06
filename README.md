@@ -14,4 +14,4 @@ cd filter
 unzip filter.zip
 ```
 ```
-python filter.py
+python Filter.py
